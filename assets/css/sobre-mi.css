@@ -1,0 +1,20 @@
+@media screen and (min-width: 360px) {
+    .sobre-mi{
+        background: #e0f4ff;
+        padding: 5%;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .sobre-mi{
+        padding: 4% 5%;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .sobre-mi{
+        padding: 4% 8%;
+    }
+}
+
+

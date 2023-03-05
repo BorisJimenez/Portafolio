@@ -1,0 +1,22 @@
+@media screen and (min-width: 360px) {
+    .banner__foto{
+        width: 8rem;
+        border-radius: 100%;
+        margin-bottom: .5rem;
+        align-self: center;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .banner__foto{
+        width: 10rem;
+        align-self: end;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .banner__foto{
+        width: 11rem;
+        align-self: end;
+    }
+}

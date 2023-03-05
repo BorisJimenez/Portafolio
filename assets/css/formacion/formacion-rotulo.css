@@ -1,0 +1,13 @@
+@media screen and (min-width: 360px) {
+    .formacion__rotulo{
+        font-size: 1.2rem;
+        color: #464646;
+        margin-top: 0.5rem;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .formacion__rotulo{
+        font-size: 1.4rem;
+    }
+}

@@ -1,0 +1,13 @@
+@media screen and (min-width: 1024px) {
+    .experiencia__subcontenedor{
+        width: 33%;
+    }
+
+    .subcont--1 {
+        order: -1;
+    }
+
+    .subcont--3{
+        order: -1;
+    }
+}

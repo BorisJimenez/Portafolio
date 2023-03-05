@@ -1,0 +1,28 @@
+@media screen and (min-width: 360px) {
+    .skills__tarjeta{
+        background: #ffffff;
+        width: 43%;
+        height: 120px;
+        margin-bottom: 1.5rem;
+        padding-left: 1rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: end;
+        border-radius: 5%;
+        box-shadow: 2px 2px #61616185;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .skills__tarjeta{
+        width: 29%;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .skills__tarjeta{
+        width: 13%;
+    }
+}
+
+

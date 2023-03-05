@@ -1,0 +1,13 @@
+@media screen and (min-width: 360px) {
+    .experiencia__imagen{
+        width: 100%;
+        border-radius: 10px;
+        box-shadow: 2px 2px #61616185;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .experiencia__imagen{
+        width: 65%;
+    }
+}

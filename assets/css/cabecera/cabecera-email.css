@@ -1,0 +1,20 @@
+@media screen and (min-width: 360px) {
+    .cabecera__email{
+        color: #464646;
+        font-size: 0.8rem;
+        list-style: none;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .cabecera__email{
+        font-size: 0.9rem;
+        font-weight: bold;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .cabecera__email{
+        margin-left: 1rem;
+    }
+}

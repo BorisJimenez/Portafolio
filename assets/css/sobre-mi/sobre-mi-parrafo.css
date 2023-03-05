@@ -1,0 +1,12 @@
+@media screen and (min-width: 360px) {
+    .sobre-mi__parrafo{
+        color: #464646;
+        text-align: justify;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .sobre-mi__parrafo{
+        font-size: 1.2rem;
+    }
+}

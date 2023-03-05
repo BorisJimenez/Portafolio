@@ -1,0 +1,15 @@
+.contacto__formulario-item-mensaje{
+    width: 90%;
+    height: 130px;
+    background: #fff;
+    display: flex;
+    flex-direction: column;
+    padding: 5%;
+    border-radius: 10px;
+    box-shadow: 2px 2px #61616185;
+
+}
+
+.contacto__formulario-item-mensaje .contacto__placeholder{
+    height: 130px;
+}

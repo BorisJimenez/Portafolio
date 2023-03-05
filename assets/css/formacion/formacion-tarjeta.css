@@ -1,0 +1,14 @@
+@media screen and (min-width: 360px) {
+    .formacion__tarjeta{
+        width: 100%;
+        margin-bottom: .5rem;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .formacion__tarjeta{
+        width: 29%;
+    }
+}
+
+

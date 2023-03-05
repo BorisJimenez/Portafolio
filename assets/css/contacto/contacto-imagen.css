@@ -1,0 +1,12 @@
+@media screen and (min-width: 360px) {
+    .contacto__imagen{
+        display: none;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .contacto__imagen{
+        display: block;
+        padding-bottom: 2rem;
+    }
+}

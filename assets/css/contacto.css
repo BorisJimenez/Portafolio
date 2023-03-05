@@ -1,0 +1,14 @@
+@media screen and (min-width: 360px) {
+    .contacto{
+        background: #e0f4ff;
+        padding: 5%;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .contacto{
+        padding: 5% 8% 0% 8%;
+        display: flex;
+        justify-content: center;
+    }
+}

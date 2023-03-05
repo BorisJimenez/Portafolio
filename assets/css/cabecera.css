@@ -1,0 +1,21 @@
+@media screen and (min-width: 360px) {
+    .cabecera {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        background: #f0f0f0;
+        padding: .5rem 1rem;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .cabecera {
+        padding: .5rem 3rem;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .cabecera {
+        padding: .5rem 8rem;
+    }
+}

@@ -1,0 +1,13 @@
+@media screen and (min-width: 360px) {
+    .contacto__titulo{
+        font-size: 1.5rem;
+        color: #464646;
+        margin-bottom: 1.5rem;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .contacto__titulo{
+        margin-left: 3rem;
+    }
+}

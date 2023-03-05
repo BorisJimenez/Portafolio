@@ -1,0 +1,16 @@
+@media screen and (min-width: 360px) {
+    .hobbies__titulo{
+        text-align: center;
+        font-size: 1.5rem;
+        color: #464646;
+        margin-bottom: 1.5rem;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .hobbies__titulo{
+        font-size: 1.7rem;
+    }
+}
+
+

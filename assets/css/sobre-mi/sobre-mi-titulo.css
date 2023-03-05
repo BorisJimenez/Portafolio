@@ -1,0 +1,13 @@
+@media screen and (min-width: 360px) {
+    .sobre-mi__titulo{
+        font-size: 1.5rem;
+        color: #464646;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .sobre-mi__titulo{
+        font-size: 1.7rem;
+    }
+}
+

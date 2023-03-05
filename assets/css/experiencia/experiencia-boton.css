@@ -1,0 +1,6 @@
+.experiencia__boton{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+}

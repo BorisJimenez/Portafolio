@@ -1,0 +1,12 @@
+@media screen and (min-width: 360px) {
+    .formacion{
+        background: #e0f4ff;
+        padding: 5% 5% 0% 5%;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .formacion{
+        padding: 5% 8% 0% 8%;
+    }
+}

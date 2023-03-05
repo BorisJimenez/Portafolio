@@ -1,0 +1,12 @@
+@media screen and (min-width: 360px) {
+    .contacto__descripcion{
+        color: #464646;
+        margin-bottom: 1.5rem;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .contacto__descripcion{
+        margin-left: 3rem;
+    }
+}

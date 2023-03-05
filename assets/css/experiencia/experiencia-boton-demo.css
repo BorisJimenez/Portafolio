@@ -1,0 +1,10 @@
+.experiencia__boton-demo{
+    width: 45%;
+    height: 50px;
+    background: #2A7AE4;
+    color: #fff;
+    font-weight: bold;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 2px 2px #61616185;
+}

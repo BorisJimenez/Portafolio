@@ -1,0 +1,15 @@
+@media screen and (min-width: 360px) {
+    .experiencia__tarjeta{
+        width: 100%;
+        margin-bottom: .5rem;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .experiencia__tarjeta{
+        display: flex;
+        align-items: center;
+        margin-bottom: 3rem;
+        justify-content: space-between;
+    }
+}

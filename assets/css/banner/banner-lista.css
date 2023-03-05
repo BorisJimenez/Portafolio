@@ -1,0 +1,24 @@
+@media screen and (min-width: 360px) {
+    .banner__lista{
+        display: flex;
+        list-style: none;
+        justify-content: space-between;
+        margin-bottom: 0.5rem;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .banner__lista{
+        width: 65%;
+        position: absolute;
+        top: 14rem;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .banner__lista{
+        width: 35%;
+        position: absolute;
+        top: 15rem;
+    }
+}
